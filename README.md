@@ -1,18 +1,14 @@
-# Getting Started with Create React App
+# 민족의 배달
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 음식배달 Web
 
-In the project directory, you can run:
+### `1일차`
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+component 구성 ('Cart', 'Layout', 'Meals', 'UI')
+Layout -> Header , HeaderCartButton
+Meals -> AvailableMeals , Meals, MealsSummary
 
 ### `npm test`
 
